@@ -1,3 +1,4 @@
 test2.txt first line 
 test2.txt second line 
 test2.txt third line 
+test2.txt fourth line on 'master' branch 
