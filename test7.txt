@@ -1,1 +1,2 @@
 on first folder create test7.txt 
+on first folder append second line to test7.txt file 
